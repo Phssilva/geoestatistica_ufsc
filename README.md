@@ -67,22 +67,6 @@ Introduzir o aluno aos fundamentos e principais técnicas de análise estatísti
 
 Este repositório contém materiais de apoio, exemplos práticos, scripts e conjuntos de dados utilizados durante o curso.
 
-## Estrutura do Repositório
-
-- `/aulas`: Slides e materiais das aulas
-- `/exercicios`: Listas de exercícios e trabalhos práticos
-- `/dados`: Conjuntos de dados para análise
-- `/scripts`: Códigos e scripts para análises geoestatísticas
-- `/bibliografia`: Referências bibliográficas e materiais complementares
-
-## Como Contribuir
-
-1. Faça um fork do repositório
-2. Crie um branch para sua contribuição (`git checkout -b feature/nova-funcionalidade`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Push para o branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
-
 ## Licença
 
 Este repositório é destinado para fins educacionais.
